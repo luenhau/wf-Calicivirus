@@ -194,6 +194,7 @@ def make_assembly_summary(bed, report):
     p = figure(
             x_axis_label='position',
             y_axis_label='contig',
+            x_range=(contigs.start-2000, contigs.end+2000),
             width=1000,
             height=300)
 
