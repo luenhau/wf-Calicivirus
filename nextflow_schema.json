@@ -26,14 +26,13 @@
                     "description": "The reference genome to use for mapping.",
                     "help_text": "We provide four popular mpox reference sequences with which to map your reads to. More information can be found here: https://labs.epi2me.io/basic-mpox-workflow",
                     "enum": [
-                        "MN648051.1",
-                        "MT903344.1",
-                        "ON568298.1",
-                        "ON563414.1",
+                        "Sapovirus.GI.1",
+                        "Sapovirus.GII.3",
+                        "Sapovirus.GIV.1",
                         "Sapovirus.GV.1",
                         "Sapovirus.NGY-1"
                     ],
-                    "default": "MT903344.1"
+                    "default": "Sapovirus.GI.1"
                 },
                 "analyse_unclassified": {
                     "type": "boolean",
