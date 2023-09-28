@@ -243,8 +243,8 @@ workflow {
 
     if (params.reference == null){
         params.remove('reference')
-        params._reference = projectDir.resolve("./data/references/MT903344.1.fasta").toString()
-        params._genbank = projectDir.resolve("./data/references/MT903344.1.gb").toString()
+        params._reference = projectDir.resolve("./data/references/Sapovirus.GI.1.fasta").toString()
+        params._genbank = projectDir.resolve("./data/references/Sapovirus.GI.1.gb").toString()
     } else {
         path = projectDir.resolve("./data/references/"+params.reference+".fasta").toString()
         params._reference = file(path, type: "file", checkIfExists:true).toString()
