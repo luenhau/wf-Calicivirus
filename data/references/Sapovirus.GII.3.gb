@@ -2,7 +2,7 @@ LOCUS       MG012417                7454 bp    RNA     linear   VRL 22-MAY-2018
 DEFINITION  Sapovirus GII.3 strain Hu/PE/2015/GII.3/Lima1856 ORF1 polyprotein
             gene, partial cds; and ORF2 protein gene, complete cds.
 ACCESSION   MG012417
-VERSION     MG012417.1
+VERSION     MG012417.1  GI:1389531711
 KEYWORDS    .
 SOURCE      Sapovirus GII.3
   ORGANISM  Sapovirus GII.3
@@ -39,6 +39,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="ORF1 polyprotein"
                      /protein_id="AWK57588.1"
+                     /db_xref="GI:1389531712"
                      /translation="KPFYPIEFNPRVELQVLRSAHLRVGGREQMFETIYDLNDHVRGV
                      VARLWCKHLHRSLAATPTFTEEGLLDSFLSKPPVDINPDTTFRELFGIDPHEQFPLSI
                      HDLARLQGELVDAARNPGHVLRRHYSTDSLTALINKITKYVPVHATLQEMQARRAFER
@@ -83,6 +84,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="ORF2 protein"
                      /protein_id="AWK57589.1"
+                     /db_xref="GI:1389531713"
                      /translation="MSWFTGAALAAGSLVDMAGTVSSIVAQHRQIDLMAQANQIQRDW
                      VNKQEALMRRGQDISRDLAINGTAQRVESLVGAGFTPVDARRLAGSSETVQYGLLDRP
                      ILQREVLAGISETHHLQSMQASLSAFKKGSSYGAPPAPVGFANPNFQPAPPRVNLGFR

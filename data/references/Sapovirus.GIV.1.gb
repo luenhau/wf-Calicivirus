@@ -2,7 +2,7 @@ LOCUS       MG012461                7437 bp    RNA     linear   VRL 22-MAY-2018
 DEFINITION  Sapovirus GIV.1 strain Hu/PE/2016/GIV.1/Lima1862 ORF1 polyprotein
             and ORF2 protein genes, complete cds.
 ACCESSION   MG012461
-VERSION     MG012461.1
+VERSION     MG012461.1  GI:1389531843
 KEYWORDS    .
 SOURCE      Sapovirus GIV.1
   ORGANISM  Sapovirus GIV.1
@@ -39,6 +39,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="ORF1 polyprotein"
                      /protein_id="AWK57676.1"
+                     /db_xref="GI:1389531844"
                      /translation="MASKPFYPISFNRKVEYLVLRSAHLRVSGREQMFETTAELDSHV
                      ETVVAGLWRENLRRSLVVIPTFTEEGLLDSFLSKPPVDINPDTTFRELFGVDPHEQFP
                      LSIHDLAKLQGELVEAARNPGHILRRHYSTDSLTALINKITKFVPVQATLQEMQARRA
@@ -83,6 +84,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="ORF2 protein"
                      /protein_id="AWK57677.1"
+                     /db_xref="GI:1389531845"
                      /translation="MSWLVGALQLGGALVDAAGSVSNMVYQHKQLELLKQQNQLYSTW
                      MAKNEQLQRDSMALSEKLSTEGPALRVKAALDAGFDPVSARRLAGSGERRIQGYIDMP
                      VMTQQQSSAHWVNGNLAKVNSALTTFQQGTPFGKPQPPKFQTGGPNIGNNRPTVNIGH

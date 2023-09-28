@@ -2,7 +2,7 @@ LOCUS       MN102402                7499 bp    RNA     linear   VRL 25-JUN-2020
 DEFINITION  Sapovirus GI.1 strain 06-901-489440/2012/TW polyprotein and minor
             structural protein genes, complete cds.
 ACCESSION   MN102402
-VERSION     MN102402.1
+VERSION     MN102402.1  GI:1852009475
 KEYWORDS    .
 SOURCE      Sapovirus GI.1
   ORGANISM  Sapovirus GI.1
@@ -38,6 +38,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="polyprotein"
                      /protein_id="QKO00675.1"
+                     /db_xref="GI:1852009476"
                      /translation="MASKPFKPIVLNATFEWQVFKRCYLRVAPREAFCENLSELHHYF
                      ARRVNAWLKHVTRTLPHEYTFVEEGLLDMFGTKAPDSVQEGALFRELFGVDQTEQFPL
                      SLADLARLQGELVDATRTPGHALRQKYTMATIQDLINKITKVVPVQATLSEMHARRQF
@@ -83,6 +84,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="minor structural protein"
                      /protein_id="QKO00676.1"
+                     /db_xref="GI:1852009477"
                      /translation="MSWLVGALQTFGSLADVAGTVSNIVYQQRQAAQLEKQNELMETW
                      MNKQEALQKSQMELTRDLSINGPAARVQSALDAGFDEVSARRIAGSGERVIWGNLDRP
                      IMHAGTMDSIRQTKHLDSLSHSLATFKNGTPFGKPAPPTAKFGKPQATTAQINIGHNP
