@@ -156,7 +156,7 @@ process makeReport {
     output:
         path "wf-mpx-*.html"
     script:
-        report_name = "wf-mpx-report.html"
+        report_name = "wf-HuSaV-report.html"
     """
 
     workflow-glue report $report_name \
