@@ -259,8 +259,6 @@ def main(args):
     section = report.add_section()
     section.markdown(""" ### Preamble
 
-    This workflow is intended to produce a __draft__ consensus Monkeypox virus
-    genome from Oxford Nanopore Technologies Sequencing data.
 
     The rough outline of this workflow:
 
