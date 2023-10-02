@@ -154,7 +154,7 @@ process makeReport {
         path reference
         tuple val(sample_id), val(type), path(consensus), path(mapped_consensus), path(assembly_bed)
     output:
-        path "wf-mpx-*.html"
+        path "wf-HuSaV-*.html"
     script:
         report_name = "wf-HuSaV-report.html"
     """
