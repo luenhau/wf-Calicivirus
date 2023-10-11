@@ -30,7 +30,14 @@
                         "Sapovirus.GII.3",
                         "Sapovirus.GIV.1",
                         "Sapovirus.GV.1",
-                        "Sapovirus.NGY-1"
+                        "Sapovirus.NGY-1",
+                        "hAstro1",
+                        "NV GII4P31",
+                        "NV GII4P16",
+                        "NV GII2P16",
+                        "NV GI3P13",
+                        "NV GII3P12",
+                        "NV GII6P7"
                     ],
                     "default": "Sapovirus.GI.1"
                 },
