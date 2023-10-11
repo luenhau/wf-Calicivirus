@@ -154,9 +154,9 @@ process makeReport {
         path reference
         tuple val(sample_id), val(type), path(consensus), path(mapped_consensus), path(assembly_bed)
     output:
-        path "wf-HuSaV-*.html"
+        path "wf-Calicivirus-*.html"
     script:
-        report_name = "wf-HuSaV-report.html"
+        report_name = "wf-Calicivirus-report.html"
     """
 
     workflow-glue report $report_name \
