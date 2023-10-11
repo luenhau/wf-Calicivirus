@@ -253,7 +253,7 @@ def argparser():
 def main(args):
     """Run the entry point."""
     report = WFReport(
-        "wf-HuSaV Sequencing Report", "wf-HuSaV",
+        "wf-Calicivirus Sequencing Report", "wf-Calicivirus",
         revision=args.revision, commit=args.commit)
 
     section = report.add_section()
