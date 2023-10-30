@@ -37,7 +37,8 @@
                         "NV GII2P16",
                         "NV GI3P13",
                         "NV GII3P12",
-                        "NV GII6P7"
+                        "NV GII6P7",
+                        "try"
                     ],
                     "default": "Sapovirus.GI.1"
                 },
