@@ -1,7 +1,7 @@
 LOCUS       MN433704                6812 bp    RNA     linear   VRL 27-JUN-2020
 DEFINITION  Human astrovirus 1 strain Hu/US/2013/CA-RGDS-1071, complete genome.
 ACCESSION   MN433704
-VERSION     MN433704.1  GI:1860212573
+VERSION     MN433704.1
 KEYWORDS    .
 SOURCE      Human astrovirus 1
   ORGANISM  Human astrovirus 1
@@ -39,7 +39,6 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="putative serine protease"
                      /protein_id="QKW90822.1"
-                     /db_xref="GI:1860212574"
                      /translation="MALGEPYYSSKPDKDFNFGSTMARRQMTPTMVTKLPKFVRNSPQ
                      AYDWIVRGLIFPTIGKTYFQRVVVVTGGLDDGTYGSFAFDGKEWVEIYPIEHLNLMSS
                      LKLIHKANALQERLRLSQEEKATLALDVQFLQHENVRLKELIPKPEPRKIQMKWIILG
@@ -63,7 +62,6 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="RNA-dependent RNA polymerase"
                      /protein_id="QKW90823.1"
-                     /db_xref="GI:1860212575"
                      /translation="IEKQGPKKLQRAPEDQGAQNYHSLDAWKLLLEPPRERRCVPANF
                      PLLGHLPINRPIFDDKKPRDDLLGLLPEPTWHAFEEYGPTTWGPQAFIKSFDKFFYAE
                      PIDFFSEYPQLCAFADWATYREFRYLEDTRVIHITATEKNTDSTPAYPKMNYFDTEEN
@@ -79,7 +77,6 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /product="capsid protein"
                      /protein_id="QKW90824.1"
-                     /db_xref="GI:1860212576"
                      /translation="MASKSNKQVTVEVSNNGRSRSKSRARSQSRGRDKSVKITVNSRN
                      RARRQPGRDKRQSSQRVRNIVNKQLRKQGVTGPKPAICQRATATLGTVGSNTSGTTEI
                      EACILLNPVLVKDATGSTQFGPVQALGAQYSMWKLKYLNVKLTSMVGASAVNGTVLRV
