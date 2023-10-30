@@ -276,17 +276,17 @@ def main(args):
     report.add_section(
         section=fastcat.full_report(args.summaries))
 
-    variants = load_vcf(args.variants)
+    #variants = load_vcf(args.variants)
 
-    make_coverage_section(args.coverage, variants, report)
+    #make_coverage_section(args.coverage, variants, report)
 
     reference = load_fasta(args.reference)
 
-    make_variants_context(variants, reference, report)
+    #make_variants_context(variants, reference, report)
 
-    make_variants_table(variants, report)
+    #make_variants_table(variants, report)
 
-    make_assembly_summary(args.assembly_bed, report)
+    #make_assembly_summary(args.assembly_bed, report)
 
     report.add_section(
         section=scomponents.version_table(args.versions))
